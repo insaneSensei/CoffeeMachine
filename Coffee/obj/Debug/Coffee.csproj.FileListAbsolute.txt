@@ -1,0 +1,13 @@
+D:\Projects\Coffee\Coffee\bin\Debug\Coffee.exe.config
+D:\Projects\Coffee\Coffee\bin\Debug\Coffee.exe
+D:\Projects\Coffee\Coffee\bin\Debug\Coffee.pdb
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.csproj.GenerateResource.cache
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.exe
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.pdb
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.Main.resources
+D:\Projects\Coffee\Coffee\bin\Debug\App.config
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.Service.resources
+D:\Projects\Coffee\Coffee\bin\Debug\Program.cs
+D:\Projects\Coffee\Coffee\obj\Debug\Coffee.csprojAssemblyReference.cache
